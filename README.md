@@ -1,6 +1,7 @@
 # mqtt2homekit
 > Control HomeKit-enabled devices with the ubiquity of MQTT
 
+[![mqtt-smarthome](https://img.shields.io/badge/mqtt-smarthome-blue.svg)](https://github.com/mqtt-smarthome/mqtt-smarthome)
 [![NPM Version][npm-image]][npm-url]
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
